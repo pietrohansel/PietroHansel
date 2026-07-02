@@ -4,7 +4,7 @@
 
 `TECHNOLOGIES`
 
-[![Tech Stack](https://skillicons.dev/icons?i=figma,linux,html,css,js,py,mysql,git,github)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=figma,linux,html,css,js,py,mysql,git)](https://skillicons.dev)
 
 `CONTACT`
 
