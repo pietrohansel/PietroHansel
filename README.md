@@ -1,4 +1,5 @@
-# Pietro Hansel
+
+---
 
 **`Análise e Desenvolvimento de Sistemas / Ciência da Computação`**
 
@@ -86,3 +87,5 @@
 
 <br/>
 <br/>
+
+---
