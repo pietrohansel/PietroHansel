@@ -2,8 +2,6 @@
 
 **`Análise e Desenvolvimento de Sistemas / Ciência da Computação`**
 
-Cursando as disciplinas...
-
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
