@@ -8,5 +8,10 @@
 
 `CONTACT`
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pietrohansel)
+<a href="https://www.linkedin.com/in/pietrohansel">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
+<a href="mailto:pietrohansel.contato@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
