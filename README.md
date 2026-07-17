@@ -20,7 +20,7 @@
     </td>
     <td align="center">
       <code>Tools</code><br><br>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,mysql,git" />
+      <img src="https://skillicons.dev/icons?i=vscode,blender,figma,mysql,git" />
     </td>
     <td align="center">
       <code>OS</code><br><br>
