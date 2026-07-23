@@ -17,9 +17,6 @@
       <a href="https://www.linkedin.com/in/pietrohansel">
         <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn">
       </a>
-      <a href="mailto:pietrohansel.contato@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail">
-      </a>
     </td>
   </tr>
 </table>
