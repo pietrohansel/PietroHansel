@@ -1,18 +1,4 @@
-<div align="center">
-<code>WELCOME TO MY PROFILE</code>
-</div>
-
-<br>
-
-| | |
-| :-: | :-: |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pietrohansel&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietrohansel&theme=github_dark) |
-
-<div align="center">
-
 <table>
-
- <table>
   <tr>
     <td align="center">
       <code>Languages</code><br><br>
@@ -38,6 +24,5 @@
   </tr>
 </table>
 
-</div>
 
 
